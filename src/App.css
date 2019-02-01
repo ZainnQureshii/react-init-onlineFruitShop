@@ -1,0 +1,74 @@
+.App {
+}
+
+
+.logo img{
+  width: 50px;
+  margin-right: 15px; 
+  -webkit-animation: rotation 2s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.container{
+  background-color: #fff;
+  padding: 15px 20px;
+}
+
+.contents{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.fruits{
+  flex: 0 1 30%;
+  margin-bottom: 50px;
+}
+
+.fruitsItems{
+  background-color: #efefef; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 0px 12px 10px -5px rgba(0,0,0, 0.5);
+}
+
+.fruitsItems h1, .fruitsItems h2{
+  text-align: center;
+}
+
+.fruitsItems .imgDiv{
+  padding: 20px 0;
+  background-color: #fff;
+  width: 100%;
+  text-align: center;
+}
+
+.fruitsItems .imgDiv img{
+  width: 180px;
+  height: 200px;
+}
+
+/* 
+.fruitsItems img{
+  background-color: whitesmoke;
+  width: 200px;
+  height: 300px;
+} */
+
+
+.btnAdd:focus{
+  border: none
+}

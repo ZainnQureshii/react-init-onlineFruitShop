@@ -1,0 +1,57 @@
+[
+  {
+    "id": 2,
+    "name": "Apple",
+    "price": 55,
+    "pic": "https://vignette.wikia.nocookie.net/clubpenguin/images/6/6d/Skate_2014_Emoticons_Apple.png/revision/latest?cb=20140926061713"
+  },
+  {
+    "id": 3,
+    "name": "Orange",
+    "price": 85,
+    "pic": "https://vignette.wikia.nocookie.net/animal-jam-clans-1/images/0/01/Orange-PNG-Transparent-Image.png/revision/latest?cb=20160728043723"
+  },
+  {
+    "id": 4,
+    "name": "Pineapple",
+    "price": 100,
+    "pic": "http://pngimg.com/uploads/pineapple/pineapple_PNG2733.png"
+  },
+  {
+    "id": 5,
+    "name": "Mango",
+    "price": 65,
+    "pic": "http://www.pngnames.com/files/3/Mango-PNG-Free-Download-.png"
+  },
+  {
+    "id": 6,
+    "name": "Apricot",
+    "price": 30,
+    "pic": "http://pngimg.com/uploads/apricot/apricot_PNG12651.png"
+  },
+  {
+    "id": 7,
+    "name": "Banana",
+    "price": 40,
+    "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Banana.png/489px-Banana.png"
+  },
+  {
+    "id": 8,
+    "name": "Grapes",
+    "price": 70,
+    "pic": "http://pngimg.com/uploads/grape/grape_PNG2995.png"
+  },
+  {
+    "id": 9,
+    "name": "Guava",
+    "price": 10,
+    "pic": "https://toppng.com/public/uploads/preview/guava-11524347122q9gwknolil.png"
+  },
+  {
+    "id": 10,
+    "name": "Peach",
+    "price": 20,
+    "pic": "http://pngimg.com/uploads/peach/peach_PNG4855.png"
+  }
+  
+]
